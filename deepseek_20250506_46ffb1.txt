@@ -1,0 +1,28 @@
+
+---
+
+### 3. **Capturas de Pantalla**  
+- Guarda imágenes **PNG** de tus diapositivas clave en `/docs/capturas/`:  
+  - `inicio.png`, `duolingo.png`, `classroom.png`.  
+- **Cómo exportar en PowerPoint**:  
+  1. Abre tu presentación.  
+  2. Ve a *Archivo > Exportar > PNG*.  
+  3. Selecciona las diapositivas clave.  
+
+---
+
+### 4. **`README.md` (Explicación al Evaluador)**  
+**Contenido clave** (personaliza esto):  
+```markdown
+# Prototipo - Inclusión Digital Facatativá  
+
+## Qué contiene  
+- `Presentacion_Prototipo.pptx`: Prototipo interactivo en PowerPoint.  
+- `docs/config_router.py`: Simulación de configuración técnica.  
+- `docs/setup_tablet.md`: Guía para preparar tablets.  
+
+## Cómo probarlo  
+1. Descarga el PowerPoint y haz clic en los íconos.  
+2. Ejecuta el script simulado:  
+   ```bash  
+   python docs/config_router.py  

@@ -1,0 +1,7 @@
+/Prototipo_Facatativá  
+├── Presentacion_Prototipo.pptx  # Tu PowerPoint interactivo  
+├── /docs  
+│   ├── config_router.py         # Script simulado (Python)  
+│   ├── setup_tablet.md          # Guía de configuración  
+│   └── capturas/               # Imágenes del prototipo  
+└── README.md                   # Instrucciones claras  
